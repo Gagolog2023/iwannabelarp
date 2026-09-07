@@ -6,7 +6,7 @@ program PepitaGame {
 	game.title("Pepita")
 	game.height(10)
 	game.width(10)
-    game.cellSize(500)
+    game.cellSize(50)
 	// add assets in asset folder, for example, for the background
     // game.boardGround("fondo2.jpg")
 
